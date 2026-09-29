@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.env
+.venv/
+.vscode/
+.cache/
+output/
+resumes/
+data/
+Kasparro_SDE_Intern_Submission.zip
+SDE_Intern_AI_Resume_Screening_Assignment*.docx
